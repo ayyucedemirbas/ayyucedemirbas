@@ -9,3 +9,6 @@ I'm a computer engineering undergraduate student and a researcher, trying to mak
 
 🔭 Research Publications: Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020. Investigated performances of Google Coral USB Accelerator and CPU for deep learning works.
 
+ORCID: 0000-0002-6731-9345
+
+Google Scholar: https://scholar.google.com/citations?hl=en&user=J1Zh37QAAAAJ
