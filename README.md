@@ -14,4 +14,8 @@ ORCID: 0000-0002-6731-9345
 Google Scholar: https://scholar.google.com/citations?hl=en&user=J1Zh37QAAAAJ
 
 
+![](https://komarev.com/ghpvc/?username=ayyucedemirbas) [![](https://img.shields.io/twitter/follow/demirbasayyuce?style=social)](https://www.twitter.com/demirbasayyuce)
+
+
+
 [![Ayyuce's github stats](https://github-readme-stats.vercel.app/api?username=ayyucedemirbas)](https://github.com/anuraghazra/github-readme-stats)
