@@ -7,7 +7,11 @@ I'm a computer engineering undergraduate student and a researcher, trying to mak
 👯 Awards: Microsoft Turkey Women Leaders of Technology, Google Developer Scholarship, Google Get Ahead Program Attendee (Ranked 16 in Code Jam competition)
 
 
-🔭 Research Publications: Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020. Investigated performances of Google Coral USB Accelerator and CPU for deep learning works.
+🔭 Research Publications: 
+Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020. Investigated performances of Google Coral USB Accelerator and CPU for deep learning works.
+
+The Correlation Between Education Levels and COVID-19 Vaccination in Turkey https://doi.org/10.5061/dryad.6m905qg0s
+
 
 ORCID: 0000-0002-6731-9345
 
