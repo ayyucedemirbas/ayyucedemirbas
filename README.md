@@ -12,6 +12,8 @@ Comparing Tensor Processing Unit and CPU Performance for Image Classification, J
 
 The Correlation Between Education Levels and COVID-19 Vaccination in Turkey https://doi.org/10.5061/dryad.6m905qg0s
 
+Generation of Synthetic Lung Cancer Histopathological Images using Generative Adversarial Networks, PyTorch Developer Day
+
 
 ORCID: 0000-0002-6731-9345
 
