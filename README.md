@@ -14,6 +14,8 @@ The Correlation Between Education Levels and COVID-19 Vaccination in Turkey http
 
 Generation of Synthetic Lung Cancer Histopathological Images using Generative Adversarial Networks, PyTorch Developer Day
 
+Generating Street Images with Bayesian Convolutional GAN http://doi.org/10.13140/RG.2.2.26809.90723
+
 
 ORCID: 0000-0002-6731-9345
 
