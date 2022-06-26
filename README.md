@@ -29,6 +29,10 @@ Goodreads: https://www.goodreads.com/ayyuce
   
 
 ![](https://komarev.com/ghpvc/?username=ayyucedemirbas) [![](https://img.shields.io/twitter/follow/demirbasayyuce?style=social)](https://www.twitter.com/demirbasayyuce)
+  
+  
+  [<img width="150" alt="image" src="https://user-images.githubusercontent.com/8023150/175823937-84dad4a0-2254-4fbc-a4d7-057787c397c8.png">](https://www.buymeacoffee.com/ayyuce)
+
 
 
 
