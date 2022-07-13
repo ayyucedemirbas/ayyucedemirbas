@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ✨ 
-I'm a computer engineering undergraduate student and a researcher, trying to make the world a better place by using my engineering skills. My interests are machine learning, operating systems, computer architecture and design, and wireless communication. I'm also interested in astronomy and astrophysics as an amateur. My career goals include obtaining a Master's degree and a PhD, ultimately contributing to awesome research projects and teaching at the college level.
+I'm a computer engineering undergraduate student and a researcher, trying to make the world a better place by using my engineering skills. My interests are machine learning, operating systems, computer architecture and design, and wireless communication. I'm also interested in astronomy and astrophysics as an amateur. My career goals include obtaining a PhD, ultimately contributing to research projects, and teaching at the college level.
 
 
-👯 Awards: Microsoft Turkey Women Leaders of Technology, Google Developer Scholarship, Google Get Ahead Program Attendee (Ranked 16 in Code Jam competition)
+👯 **Awards**: Microsoft Turkey Women Leaders of Technology, Google Developer Scholarship, Google Get Ahead Program Attendee (Ranked 16 in Code Jam competition)
 
 
-🔭 Research Publications: 
+🔭 **Research Publications**: 
 Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020. Investigated performances of Google Coral USB Accelerator and CPU for deep learning works.
 
 The Correlation Between Education Levels and COVID-19 Vaccination in Turkey https://doi.org/10.5061/dryad.6m905qg0s
@@ -31,11 +31,6 @@ Goodreads: https://www.goodreads.com/ayyuce
 
 
 ![](https://komarev.com/ghpvc/?username=ayyucedemirbas) [![](https://img.shields.io/twitter/follow/demirbasayyuce?style=social)](https://www.twitter.com/demirbasayyuce)
-  
-  
-  [<img width="150" alt="image" src="https://user-images.githubusercontent.com/8023150/175823937-84dad4a0-2254-4fbc-a4d7-057787c397c8.png">](https://www.buymeacoffee.com/ayyuce)
-
-
 
 
 [![Ayyuce's github stats](https://github-readme-stats.vercel.app/api?username=ayyucedemirbas)](https://github.com/anuraghazra/github-readme-stats)
