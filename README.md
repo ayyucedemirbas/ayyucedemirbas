@@ -34,3 +34,5 @@ Goodreads: https://www.goodreads.com/ayyuce
 
 
 [![Ayyuce's github stats](https://github-readme-stats.vercel.app/api?username=ayyucedemirbas)](https://github.com/anuraghazra/github-readme-stats)
+
+[![@ayyuce's Holopin board](https://holopin.io/api/user/board?user=ayyuce)](https://holopin.io/@ayyuce)
