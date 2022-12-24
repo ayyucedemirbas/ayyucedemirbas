@@ -2,7 +2,7 @@
 
 ✨ 
 
-My name is Ayyuce and I'm a machine learning engineer with a passion for solving real-world problems using artificial intelligence and data science. I hold a bachelor's degree in computer engineering and am planning to pursue a Ph.D. in machine learning in the near future. I have experience in building and deploying machine learning models for a variety of applications. In my free time, I enjoy staying up-to-date on the latest research and techniques in the field, and I'm always looking for new challenges to tackle.
+My name is Ayyuce and I'm a machine learning engineer with a passion for solving real-world problems. I hold a bachelor's degree in computer engineering and am planning to pursue a Ph.D. in machine learning in the near future. I have experience in building and deploying machine learning models for a variety of applications. In my free time, I enjoy staying up-to-date on the latest research and techniques in the field, and I'm always looking for new challenges to tackle.
 
 
 👯 **Awards**: Microsoft Turkey Women Leaders of Technology, Google Developer Scholarship, Google Get Ahead Program Attendee (Ranked 16 in Code Jam competition)
