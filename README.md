@@ -1,3 +1,6 @@
+![IMG_4310](https://github.com/ayyucedemirbas/ayyucedemirbas/assets/8023150/d440d3e1-4a62-4852-9b56-2ab617193b52)
+
+
 ### Hi there! 👋
 ✨
 
