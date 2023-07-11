@@ -1,12 +1,9 @@
-![IMG_4310](https://github.com/ayyucedemirbas/ayyucedemirbas/assets/8023150/d440d3e1-4a62-4852-9b56-2ab617193b52)
-
-
 ### Hi there! 👋
 ✨
 
 My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vision transformers and medical images. Currently, I'm actively working on leveraging vision transformers for medical image analysis, aiming to contribute to the field by solving real-world problems. I hold a bachelor's degree in computer engineering and have a deep passion for machine learning. In the near future, I plan to pursue a Ph.D. in machine learning to further expand my knowledge and expertise.
 
-I have extensive experience in building and deploying machine learning models for various applications. I am particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I consistently seek out new challenges to tackle and explore innovative approaches.
+I have extensive experience in building and deploying machine learning models for various applications. I'm particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I consistently seek out new challenges to tackle and explore innovative approaches.
 
 👯 **Awards:**
 
@@ -23,7 +20,7 @@ I have extensive experience in building and deploying machine learning models fo
 
 - Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020. Investigated performances of Google Coral USB Accelerator and CPU for deep learning works.
 
-- The Correlation Between Education Levels and COVID-19 Vaccination in Turkey, expected publication in a journal (DOI: https://doi.org/10.5061/dryad.6m905qg0s)
+- The Correlation Between Education Levels and COVID-19 Vaccination in Turkey(DOI: https://doi.org/10.5061/dryad.6m905qg0s)
   
 - Generation of Synthetic Lung Cancer Histopathological Images using Generative Adversarial Networks, PyTorch Developer Day 2021
   
