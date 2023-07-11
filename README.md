@@ -1,21 +1,32 @@
-### Hi there 👋
+### Hi there! 👋
+✨
 
-✨ 
+My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vision transformers and medical images. Currently, I'm actively working on leveraging vision transformers for medical image analysis, aiming to contribute to the field by solving real-world problems. I hold a bachelor's degree in computer engineering and have a deep passion for machine learning. In the near future, I plan to pursue a Ph.D. in machine learning to further expand my knowledge and expertise.
 
-My name is Ayyuce and I'm a machine learning engineer with a passion for solving real-world problems. I hold a bachelor's degree in computer engineering and am planning to pursue a Ph.D. in machine learning in the near future. I have experience in building and deploying machine learning models for a variety of applications. In my free time, I enjoy staying up-to-date on the latest research and techniques in the field, and I'm always looking for new challenges to tackle.
+I have extensive experience in building and deploying machine learning models for various applications. I am particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I consistently seek out new challenges to tackle and explore innovative approaches.
+
+👯 **Awards:**
+
+- Google Developer Expert in Machine Learning
+
+- Microsoft Turkey Women Leaders of Technology
+
+- Google Developer Scholarship
+
+- Google Get Ahead Program Attendee (Ranked 16 in the Code Jam competition)
 
 
-👯 **Awards**: Microsoft Turkey Women Leaders of Technology, Google Developer Scholarship, Google Get Ahead Program Attendee (Ranked 16 in the Code Jam competition)
+🔭 **Research Publications:**
 
+- Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020. Investigated performances of Google Coral USB Accelerator and CPU for deep learning works.
 
-🔭 **Research Publications**: 
-Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020. Investigated performances of Google Coral USB Accelerator and CPU for deep learning works.
-
-The Correlation Between Education Levels and COVID-19 Vaccination in Turkey https://doi.org/10.5061/dryad.6m905qg0s
-
-Generation of Synthetic Lung Cancer Histopathological Images using Generative Adversarial Networks, PyTorch Developer Day 2021
-
-Generating Street Images with Bayesian Convolutional GAN http://doi.org/10.13140/RG.2.2.26809.90723
+- The Correlation Between Education Levels and COVID-19 Vaccination in Turkey, expected publication in a journal (DOI: https://doi.org/10.5061/dryad.6m905qg0s)
+  
+- Generation of Synthetic Lung Cancer Histopathological Images using Generative Adversarial Networks, PyTorch Developer Day 2021
+  
+- Generating Street Images with Bayesian Convolutional GAN (DOI: http://doi.org/10.13140/RG.2.2.26809.90723)
+  
+- A research paper on vision transformers for medical image analysis, expected publication in a journal (2023)
 
 
 ORCID: 0000-0002-6731-9345
