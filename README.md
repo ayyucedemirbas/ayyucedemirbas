@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ✨
 
-My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vision transformers and medical images. Currently, I'm actively working on leveraging vision transformers for medical image analysis, aiming to contribute to the field by solving real-world problems. I hold a bachelor's degree in computer engineering and have a deep passion for machine learning. In the near future, I plan to pursue a Ph.D. in machine learning to further expand my knowledge and expertise.
+My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vision transformers and medical images. Currently, I'm actively working on leveraging vision transformers for medical image analysis, aiming to contribute to the field by solving real-world problems. I hold a bachelor's degree in computer engineering and have a deep passion for machine learning.
 
 I have extensive experience in building and deploying machine learning models for various applications. I'm particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I consistently seek out new challenges to tackle and explore innovative approaches.
 
