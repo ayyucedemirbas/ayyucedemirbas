@@ -18,15 +18,23 @@ I have extensive experience in building and deploying machine learning models fo
 
 🔭 **Research Publications:**
 
-- Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020. Investigated performances of Google Coral USB Accelerator and CPU for deep learning works.
+- Spatial-attention ConvMixer architecture for classification and detection of gastrointestinal diseases using the Kvasir dataset, 2024 (https://link.springer.com/article/10.1007/s13755-024-00290-x)
+
+- Generating Street Images with Bayesian Convolutional GAN (DOI: http://doi.org/10.13140/RG.2.2.26809.90723)
+
+- Generation of Synthetic Lung Cancer Histopathological Images using Generative Adversarial Networks, PyTorch Developer Day 2021
 
 - The Correlation Between Education Levels and COVID-19 Vaccination in Turkey(DOI: https://doi.org/10.5061/dryad.6m905qg0s)
+
+- Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020.
+
+
   
-- Generation of Synthetic Lung Cancer Histopathological Images using Generative Adversarial Networks, PyTorch Developer Day 2021
+
   
-- Generating Street Images with Bayesian Convolutional GAN (DOI: http://doi.org/10.13140/RG.2.2.26809.90723)
+
   
-- A research paper on vision transformers for medical image analysis, expected publication in a journal (2023)
+
 
 
 ORCID: 0000-0002-6731-9345
