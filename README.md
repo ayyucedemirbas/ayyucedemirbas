@@ -1,9 +1,7 @@
 ### Hi there! 👋
 ✨
 
-My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vision transformers and medical images. Currently, I'm actively working on leveraging vision transformers for medical image analysis, aiming to contribute to the field by solving real-world problems. I hold a bachelor's degree in computer engineering and have a deep passion for machine learning.
-
-I have extensive experience in building and deploying machine learning models for various applications. I'm particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I consistently seek out new challenges to tackle and explore innovative approaches.
+My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vision transformers and medical images. Currently, I'm actively working on vision language models for medical image analysis. I hold a bachelor's degree in computer engineering and have a deep passion for machine learning. I'm particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I consistently seek out new challenges to tackle and explore innovative approaches.
 
 👯 **Awards:**
 
@@ -53,4 +51,4 @@ Goodreads: https://www.goodreads.com/ayyuce
 ![](https://komarev.com/ghpvc/?username=ayyucedemirbas) [![](https://img.shields.io/twitter/follow/demirbasayyuce?style=social)](https://www.twitter.com/demirbasayyuce)
 
 
-[![Ayyuce's github stats](https://github-readme-stats.vercel.app/api?username=ayyucedemirbas)](https://github.com/anuraghazra/github-readme-stats)
+
