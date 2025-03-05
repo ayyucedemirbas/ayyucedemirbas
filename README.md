@@ -1,7 +1,7 @@
 # Hi there! 👋
 ✨
 
-My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vision transformers and medical images. Currently, I'm actively working on vision language models for medical image analysis. I hold a bachelor's degree in computer engineering and have a deep passion for machine learning. I'm particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I consistently seek out new challenges to tackle and explore innovative approaches.
+My name is Ayyuce, and I'm a machine learning engineer and researcher with a focus on vision language models, vision transformers and large language models. Currently, I'm actively working on vision language models for medical image analysis. I hold a bachelor's degree in computer engineering. I'm particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I consistently seek out new challenges to tackle and explore innovative approaches.
 
 ## 🚀 Technical Skills
 
@@ -61,19 +61,19 @@ My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vi
   </a>
   <!-- Transformers (Badge style) -->
   <a href="https://huggingface.co/transformers/" target="_blank">
-    <img src="https://img.shields.io/badge/Transformers-FF5722?style=for-the-badge&logo=python&logoColor=white" alt="Transformers" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/transformers.png" alt="Transformers" height="40"/>
   </a>
   <!-- PEFT (Badge style) -->
   <a href="https://github.com/huggingface/peft" target="_blank">
-    <img src="https://img.shields.io/badge/PEFT-6f42c1?style=for-the-badge&logo=python&logoColor=white" alt="PEFT" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/peft.png" alt="PEFT" height="40"/>
   </a>
   <!-- TRL -->
   <a href="https://github.com/lvwerra/trl" target="_blank">
-    <img src="https://img.shields.io/badge/TRL-FF9900?style=for-the-badge&logo=python&logoColor=white" alt="TRL" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/trl.png" alt="TRL" height="40"/>
   </a>
   <!-- Timm -->
   <a href="https://github.com/rwightman/pytorch-image-models" target="_blank">
-    <img src="https://img.shields.io/badge/Timm-0B5FFF?style=for-the-badge&logo=pytorch&logoColor=white" alt="Timm" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/timm.png" alt="Timm" height="40"/>
   </a>
   <!-- LangChain -->
   <a href="https://github.com/hwchase17/langchain" target="_blank">
@@ -81,7 +81,7 @@ My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vi
   </a>
   <!-- LlamaIndex (Badge style) -->
   <a href="https://github.com/jerryjliu/llama_index" target="_blank">
-    <img src="https://img.shields.io/badge/LlamaIndex-1ABC9C?style=for-the-badge&logo=python&logoColor=white" alt="LlamaIndex" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/llamaindex.png" alt="LlamaIndex" height="40"/>
   </a>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank">
@@ -109,7 +109,7 @@ My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vi
   </a>
   <!-- Amazon SageMaker (Badge style) -->
   <a href="https://aws.amazon.com/sagemaker/" target="_blank">
-    <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon SageMaker" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/Amazon-Sagemaker.jpg" alt="Amazon SageMaker" height="40"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
@@ -117,7 +117,7 @@ My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vi
   </a>
   <!-- Git LFS (Badge style) -->
   <a href="https://git-lfs.github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git%20LFS-555555?style=for-the-badge&logo=git&logoColor=white" alt="Git LFS" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/git-lfs.png" alt="Git LFS" height="40"/>
   </a>
   <!-- JDK (Badge style) -->
   <a href="https://openjdk.java.net/" target="_blank">
@@ -125,7 +125,7 @@ My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vi
   </a>
   <!-- JUnit (Badge style) -->
   <a href="https://junit.org/junit5/" target="_blank">
-    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" alt="JUnit" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/junit.png" alt="JUnit" height="40"/>
   </a>
   <!-- Maven -->
   <a href="https://maven.apache.org/" target="_blank">
@@ -133,11 +133,11 @@ My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vi
   </a>
   <!-- Black (Badge style) -->
   <a href="https://black.readthedocs.io/en/stable/" target="_blank">
-    <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white" alt="Black" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/black.png" alt="Black" height="40"/>
   </a>
   <!-- Isort (Badge style) -->
   <a href="https://pycqa.github.io/isort/" target="_blank">
-    <img src="https://img.shields.io/badge/Isort-5C4EE5?style=for-the-badge&logo=python&logoColor=white" alt="Isort" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/isort.png" alt="Isort" height="40"/>
   </a>
   <!-- Sphinx (Badge style) -->
   <a href="https://www.sphinx-doc.org/" target="_blank">
@@ -153,10 +153,7 @@ My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vi
 </p>
 
 
-
-
-
-👯 **Awards:**
+## 👯 Awards:
 
 - Google Developer Expert in Machine Learning
 
@@ -167,7 +164,7 @@ My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vi
 - Google Get Ahead Program Attendee (Ranked 16 in the Code Jam competition)
 
 
-🔭 **Research Publications:**
+## 🔭 Research Publications:
 
 - Spatial-attention ConvMixer architecture for classification and detection of gastrointestinal diseases using the Kvasir dataset, 2024 (https://link.springer.com/article/10.1007/s13755-024-00290-x)
 
@@ -180,7 +177,7 @@ My name is Ayyuce, and I'm a machine learning engineer with a strong focus on vi
 - Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020.
 
 
-### 🔗 Connect with me:
+## 🔗 Connect with me:
 <p align="left">
   <!-- Hugging Face -->
   <a href="https://huggingface.co/ayyuce" target="_blank">
