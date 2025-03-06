@@ -3,9 +3,9 @@
 
 ## 🚀 Technical Skills
 
-** 🤖 Machine Learning:** Convolutional Neural Networks, Vision Transformers, Transformers, Multimodal Models, Large Language Models, Self-Supervised Learning, Contrastive Learning, Retrieval-Augmented Generation,  Instruction Tuning, Reinforcement Learning from Human Feedback, Group Relative Policy Optimization
+**🤖 Machine Learning:** Convolutional Neural Networks, Vision Transformers, Transformers, Multimodal Models, Large Language Models, Self-Supervised Learning, Contrastive Learning, Retrieval-Augmented Generation,  Instruction Tuning, Reinforcement Learning from Human Feedback, Group Relative Policy Optimization
 
-** 👩🏻‍💻 Programming Languages:**
+**👩🏻‍💻 Programming Languages:**
 
 <p align="left">
   <!-- Python -->
