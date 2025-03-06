@@ -1,7 +1,5 @@
 # Hi there! 👋
-✨
-
-My name is Ayyuce, and I'm a machine learning engineer and researcher with a focus on vision language models, vision transformers and large language models. Currently, I'm actively working on vision language models for medical image analysis. I hold a bachelor's degree in computer engineering. I'm particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I consistently seek out new challenges to tackle and explore innovative approaches.
+✨ My name is Ayyuce, and I'm a machine learning engineer and researcher with a focus on vision language models, vision transformers and large language models. Currently, I'm actively working on vision language models for medical image analysis. I hold a bachelor's degree in computer engineering. I'm particularly interested in staying up-to-date with the latest research and techniques in the field. As a dedicated learner, I'm always looking for new challenges and exploring innovative approaches.
 
 ## 🚀 Technical Skills
 
