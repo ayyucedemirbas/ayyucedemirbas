@@ -61,35 +61,35 @@ My name is Ayyuce, and I'm a machine learning engineer and researcher with a foc
   </a>
   <!-- Transformers (Badge style) -->
   <a href="https://huggingface.co/transformers/" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/transformers.png" alt="Transformers" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/transformers.png" alt="Transformers"  height="40"/>
   </a>
   <!-- PEFT (Badge style) -->
   <a href="https://github.com/huggingface/peft" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/peft.png" alt="PEFT" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/peft.png" alt="PEFT"  width="40" height="40"/>
   </a>
   <!-- TRL -->
   <a href="https://github.com/lvwerra/trl" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/trl.png" alt="TRL" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/trl.png" alt="TRL"  width="40" height="40"/>
   </a>
   <!-- Timm -->
   <a href="https://github.com/rwightman/pytorch-image-models" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/timm.png" alt="Timm" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/timm.png" alt="Timm"  width="40" height="40"/>
   </a>
   <!-- LangChain -->
   <a href="https://github.com/hwchase17/langchain" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/refs/heads/master/svg/l/langchain-1.svg" alt="LangChain" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/langchain.svg" alt="LangChain"  width="40" height="40"/>
   </a>
   <!-- LlamaIndex (Badge style) -->
   <a href="https://github.com/jerryjliu/llama_index" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/llamaindex.png" alt="LlamaIndex" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/llamaindex.png" alt="LlamaIndex"  height="40"/>
   </a>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" height="40"/>
   </a>
   <!-- Gradio (Badge style) -->
   <a href="https://gradio.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/static/library/gradio.svg" alt="Gradio" height="40"/>
+    <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/static/library/gradio.svg" alt="Gradio"  width="40" height="40"/>
   </a>
   <!-- Streamlit -->
   <a href="https://streamlit.io/" target="_blank">
@@ -109,7 +109,7 @@ My name is Ayyuce, and I'm a machine learning engineer and researcher with a foc
   </a>
   <!-- Amazon SageMaker (Badge style) -->
   <a href="https://aws.amazon.com/sagemaker/" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/Amazon-Sagemaker.jpg" alt="Amazon SageMaker" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/Amazon-Sagemaker.jpg" alt="Amazon SageMaker"  width="40" height="40"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
@@ -117,11 +117,11 @@ My name is Ayyuce, and I'm a machine learning engineer and researcher with a foc
   </a>
   <!-- Git LFS (Badge style) -->
   <a href="https://git-lfs.github.com/" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/git-lfs.png" alt="Git LFS" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/git-lfs.png" alt="Git LFS"  width="40" height="40"/>
   </a>
   <!-- JDK (Badge style) -->
   <a href="https://openjdk.java.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/java.svg" alt="JDK" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JDK"  width="40" height="40"/>
   </a>
   <!-- JUnit (Badge style) -->
   <a href="https://junit.org/junit5/" target="_blank">
@@ -133,7 +133,7 @@ My name is Ayyuce, and I'm a machine learning engineer and researcher with a foc
   </a>
   <!-- Black (Badge style) -->
   <a href="https://black.readthedocs.io/en/stable/" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/black.png" alt="Black" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/black.png" alt="Black"  height="40"/>
   </a>
   <!-- Isort (Badge style) -->
   <a href="https://pycqa.github.io/isort/" target="_blank">
@@ -141,11 +141,11 @@ My name is Ayyuce, and I'm a machine learning engineer and researcher with a foc
   </a>
   <!-- Sphinx (Badge style) -->
   <a href="https://www.sphinx-doc.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/sphinx.svg" alt="Sphinx" height="40"/>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/sphinx.svg" alt="Sphinx"  width="40" height="40"/>
   </a>
   <!-- Poetry (Badge style) -->
   <a href="https://python-poetry.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/poetry/poetry-original.svg" alt="Poetry" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/poetry/poetry-original.svg" alt="Poetry"  width="40" height="40"/>
   </a>
 <!-- Arduino (Badge style) -->
   <a href="https://www.arduino.cc/" target="_blank"> 
