@@ -147,7 +147,13 @@
   </a>
 <!-- Arduino (Badge style) -->
   <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<!-- Linux (Badge style) -->
+  <a href="https://www.linux.org/" target="_blank">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>  
+<!-- Bash (Badge style) -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank">  
+    <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="Bash" width="40" height="40"/> </a>  
 </p>
 
 
