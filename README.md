@@ -75,7 +75,7 @@
   </a>
   <!-- LangChain -->
   <a href="https://github.com/hwchase17/langchain" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/langchain.svg" alt="LangChain"  width="40" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/langchain.png" alt="LangChain"  width="120" height="40"/>
   </a>
   <!-- LlamaIndex (Badge style) -->
   <a href="https://github.com/jerryjliu/llama_index" target="_blank">
@@ -83,7 +83,7 @@
   </a>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/flask.png" alt="Flask" width="120" height="40"/>
   </a>
   <!-- Gradio (Badge style) -->
   <a href="https://gradio.app/" target="_blank">
@@ -123,7 +123,7 @@
   </a>
   <!-- JUnit (Badge style) -->
   <a href="https://junit.org/junit5/" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/junit.png" alt="JUnit" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/junit.png" alt="JUnit" height="30"/>
   </a>
   <!-- Maven -->
   <a href="https://maven.apache.org/" target="_blank">
@@ -135,7 +135,7 @@
   </a>
   <!-- Isort (Badge style) -->
   <a href="https://pycqa.github.io/isort/" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/isort.png" alt="Isort" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/isort.png" alt="Isort" width="120" height="40"/>
   </a>
   <!-- Sphinx (Badge style) -->
   <a href="https://www.sphinx-doc.org/" target="_blank">
