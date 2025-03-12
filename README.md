@@ -153,7 +153,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>  
 <!-- Bash (Badge style) -->
   <a href="https://www.gnu.org/software/bash/" target="_blank">  
-    <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="Bash" width="40" height="40"/> </a>  
+    <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="Bash" width="40" height="40"/> </a>
+<!-- ZSH (Badge style) -->
+  <a href="https://www.zsh.org/" target="_blank">  
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/zsh.png" alt="ZSH" width="40" height="40"/> </a>
 </p>
 
 
