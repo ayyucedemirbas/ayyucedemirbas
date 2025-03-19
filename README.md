@@ -160,7 +160,7 @@
 </p>
 
 
-## 👯 Awards:
+## 🏆 Awards:
 
 - Google Developer Expert in Machine Learning
 
