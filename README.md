@@ -200,7 +200,7 @@
   </a>
   <!-- ORCID -->
   <a href="https://orcid.org/0000-0002-6731-9345" target="_blank">
-    <img src="https://cdn.simpleicons.org/orcid" alt="ORCID" width="40" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/orcid.png" alt="ORCID" width="40" height="40"/>
   </a>
   <!-- ResearchGate -->
   <a href="https://www.researchgate.net/profile/Ayse-Demirbas" target="_blank">
