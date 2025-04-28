@@ -208,7 +208,7 @@
   </a>
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/ayyuce" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/leetcode.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/leetcode.png" alt="LeetCode" width="30" height="40"/>
   </a>
   <!-- Goodreads -->
   <a href="https://www.goodreads.com/ayyuce" target="_blank">
