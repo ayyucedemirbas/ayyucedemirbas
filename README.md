@@ -204,7 +204,7 @@
   </a>
   <!-- ResearchGate -->
   <a href="https://www.researchgate.net/profile/Ayse-Demirbas" target="_blank">
-    <img src="https://cdn.simpleicons.org/researchgate" alt="ResearchGate" width="40" height="40"/>
+    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/researchgate.png" alt="ResearchGate" width="40" height="40"/>
   </a>
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/ayyuce" target="_blank">
