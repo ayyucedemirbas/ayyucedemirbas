@@ -179,8 +179,6 @@
 
 - Generation of Synthetic Lung Cancer Histopathological Images using Generative Adversarial Networks, PyTorch Developer Day 2021
 
-- The Correlation Between Education Levels and COVID-19 Vaccination in Turkey(DOI: https://doi.org/10.5061/dryad.6m905qg0s)
-
 - Comparing Tensor Processing Unit and CPU Performance for Image Classification, Journal of Computer Science and Technologies, 2020.
 
 
