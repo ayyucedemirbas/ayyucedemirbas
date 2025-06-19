@@ -1,5 +1,5 @@
 # Hi there! 👋
-✨ My name is Ayyuce, and I'm a machine learning engineer and researcher. I hold a bachelor's degree in computer engineering. My research interests are graph-based multi-omics integration methods, prediction of cancer subtypes, drug discovery, and multimodal protein language models. Currently, I’m actively working on vision language models for medical image analysis. I’m interested in staying up-to-date with the novel research and techniques in my field. I enjoy learning new things and am always looking for new challenges and exploring innovative approaches.
+✨ My name is Ayyuce, and I'm a machine learning engineer and researcher. I hold a bachelor's degree in computer engineering. My research interests are graph-based multi-omics integration methods, prediction of cancer subtypes, drug discovery, and multimodal protein language models. I’m interested in staying up-to-date with the novel research and techniques in my field. I enjoy learning new things and am always looking for new challenges and exploring innovative approaches.
 
 ## 🚀 Technical Skills
 
