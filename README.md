@@ -1,9 +1,9 @@
 # Hi there! 👋
-✨ My name is Ayyuce, and I'm a machine learning engineer and researcher. I hold a bachelor's degree in computer engineering. My research interests are graph-based multi-omics integration methods, prediction of cancer subtypes, drug discovery, and multimodal protein language models. I’m interested in staying up-to-date with the novel research and techniques in my field. I enjoy learning new things and am always looking for new challenges and exploring innovative approaches.
+✨ My name is Ayyuce, and I will soon join the [Bozdag Lab](https://github.com/bozdaglab) at the University of North Texas as a Ph.D. student in Computer Science & Engineering. My research interests are graph-based multi-omics integration, prediction of cancer subtypes, and drug discovery. I’m interested in staying up-to-date with the novel research and techniques in my field. I enjoy learning new things and am always looking for new challenges and exploring innovative approaches.
 
 ## 🚀 Technical Skills
 
-**🤖 Machine Learning:** Convolutional Neural Networks, Vision Transformers, Transformers, Multimodal Models, Large Language Models, Self-Supervised Learning, Contrastive Learning, Retrieval-Augmented Generation,  Instruction Tuning, Reinforcement Learning from Human Feedback, Group Relative Policy Optimization
+**🤖 Machine Learning:** Convolutional Neural Networks, Graph Neural Networks, Vision Transformers, Transformers, Mamba, Multimodal Models, Large Language Models, Self-Supervised Learning, Contrastive Learning, Retrieval-Augmented Generation,  Instruction Tuning, Reinforcement Learning from Human Feedback, Group Relative Policy Optimization
 
 **👩🏻‍💻 Programming Languages:**
 
