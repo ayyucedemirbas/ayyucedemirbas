@@ -212,11 +212,11 @@
   <a href="https://www.goodreads.com/ayyuce" target="_blank">
     <img src="https://cdn.simpleicons.org/goodreads" alt="Goodreads" width="40" height="40"/>
   </a>
-  <!-- Keybase -->
-  <a href="https://keybase.io/ayyuce" target="_blank">
-    <img src="https://github.com/ayyucedemirbas/ayyucedemirbas/blob/master/logo/keybase.png" alt="Keybase" width="40" height="40"/>
+<!-- LinkedIn -->
+   <a href="https://www.linkedin.com/in/ayse-ayyuce-demirbas-6560633a2" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 
 
