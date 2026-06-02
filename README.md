@@ -1,5 +1,5 @@
 # Hi there! 👋
-✨ My name is Ayyuce, and I will soon join the [Bozdag Lab](https://github.com/bozdaglab) at the University of North Texas as a Ph.D. student in Computer Science & Engineering. My research interests are graph-based multi-omics integration, prediction of cancer subtypes, and drug discovery. I’m interested in staying up-to-date with the novel research and techniques in my field. I enjoy learning new things and am always looking for new challenges and exploring innovative approaches.
+✨ My name is Ayyuce. I am a doctoral researcher in the [Bozdag Lab](https://github.com/bozdaglab) at the University of North Texas, pursuing my PhD in Computer Science and Engineering. My research interests are graph-based multi-omics integration, prediction of cancer subtypes, and drug discovery. I’m interested in staying up-to-date with the novel research and techniques in my field. I enjoy learning new things and am always looking for new challenges and exploring innovative approaches.
 
 ## 🚀 Technical Skills
 
